@@ -6,3 +6,4 @@
 
 適当な修正
 サーバー上で編集を加えました
+ New line added by a local environment.
